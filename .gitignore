@@ -1,0 +1,9 @@
+configs.*
+*.log
+*.jpeg
+*.jpg
+*.gif
+*.png
+*.html
+.DS_Store
+used*
