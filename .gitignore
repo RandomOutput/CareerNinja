@@ -4,6 +4,7 @@ configs.*
 *.jpg
 *.gif
 *.png
+*.pyc
 *.html
 .DS_Store
 used*
